@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="song_title">Song Title</string>
+    <string name="zero">0:00</string>
+    <string name="about">About</string>
+    <string name="hasan">Ahmad Abu Hasan\n117227007</string>
+    <string name="fuad">Muhammad Amirul Fuad\n117227027</string>
+</resources>
